@@ -15,18 +15,18 @@
   <img src="https://github.com/redwan100/redwan100/blob/master/images/icons/HTML.png" />
     <img src="https://github.com/redwan100/redwan100/blob/master/images/icons/css.png" />
     <img src="https://github.com/redwan100/redwan100/blob/master/images/icons/Bootsrap.png" />
-    <img src="https://github.com/redwan100/redwan100/blob/master/images/icons/JavaScript.png" />
     <img src="https://github.com/redwan100/redwan100/blob/master/images/icons/sass.png" />
+    <img src="https://github.com/redwan100/redwan100/blob/master/images/icons/JavaScript.png" />
 </p>
 
 </br >
 
 <p align="center">
-  <img src="https://github.com/redwan100/redwan100/blob/master/images/icons/HTML.png" />
-    <img src="https://github.com/redwan100/redwan100/blob/master/images/icons/css.png" />
-    <img src="https://github.com/redwan100/redwan100/blob/master/images/icons/Bootsrap.png" />
-    <img src="https://github.com/redwan100/redwan100/blob/master/images/icons/JavaScript.png" />
-    <img src="https://github.com/redwan100/redwan100/blob/master/images/icons/sass.png" />
+  <img src="https://github.com/redwan100/redwan100/blob/master/images/icons/react.png" />
+    <img src="https://github.com/redwan100/redwan100/blob/master/images/icons/redux.png" />
+    <img src="https://github.com/redwan100/redwan100/blob/master/images/icons/tailwind.png" />
+    <img src="https://github.com/redwan100/redwan100/blob/master/images/icons/firebase.png" />
+    <img src="https://github.com/redwan100/redwan100/blob/master/images/icons/node.png" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
