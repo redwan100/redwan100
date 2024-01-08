@@ -10,7 +10,10 @@
 - 👯 I’m looking to collaborate on ...
 
 ## :computer: Technologies that I know
-
+</br >
+<p align="center">
+  <img src="https://github.com/redwan100/master/images/icons/HTML.png" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 
