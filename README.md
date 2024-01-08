@@ -9,6 +9,8 @@
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 
+- ## :mailbox: Reach me out
+
 ## :computer: Technologies that I know
 </br >
 <p align="center">
