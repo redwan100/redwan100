@@ -13,6 +13,9 @@
 </br >
 <p align="center">
   <img src="https://github.com/redwan100/redwan100/blob/master/images/icons/HTML.png" />
+    <img src="https://github.com/redwan100/redwan100/blob/master/images/icons/css.png" />
+    <img src="https://github.com/redwan100/redwan100/blob/master/images/icons/Bootstrap.png" />
+    <img src="https://github.com/redwan100/redwan100/blob/master/images/icons/javaScript.png" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
