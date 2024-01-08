@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&pause=1000&random=false&width=435&lines=I+am+a+web-developer+!)](https://git.io/typing-svg)
 
-<h3 >I'm passionate frontend developer from Bangladesh</h3>
+<h3 >I'm passionate web-developer</h3>
 
 
 - 🌱 I’m currently learning ...
