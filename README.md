@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 
-
+## :computer: Technologies that I know
 
 
 <h3 align="left">Connect with me:</h3>
